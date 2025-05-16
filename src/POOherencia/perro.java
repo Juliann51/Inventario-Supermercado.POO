@@ -2,6 +2,7 @@ package POOherencia;
 
 public class perro extends Animal{
     private String raza;
+    private String nombre;
 
     public perro(){
     }
